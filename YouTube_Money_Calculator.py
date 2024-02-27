@@ -6,7 +6,7 @@ import os
 class YouTubeMoney():
     YouTube_First_Channel_Name="ItsMe Prince Helps"
     YouTube_Second_Channel_Name="ItsMe Prince 0"
-    url="https://v6.exchangerate-api.com/v6/4660ead9cb813dc8886441dc/latest/USD"
+    url=" YOUR-API " #PASTE-YOUR-API-HERE!
     inr_rate=0.0
     USD_YouTube_First_Channel_Earning=0.0
     USD_YouTube_Second_Channel_Earning=0.0
